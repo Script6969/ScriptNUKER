@@ -10,4 +10,4 @@
     </ul>
   <li>3. and now continue according to what cmd/terminal says</li>
 </ul><br>
-<pre><a href="https://t.me/Legend_of_Pr0xyArmy">JOIN TELEGRAM</a></pre>
+<pre><a href="https://t.me/Legend_of_Pr0xyArmy">JOIN TELEGRAM</a><a>there is more option in ScriptNUKER v2.0</a></pre>
