@@ -8,5 +8,5 @@
       <li>2. pip install discord</li>
       <li>3. pip install asyncio</li>
     </ul>
-  <li>3. Třetí položka</li>
+  <li>3. and now just let go</li>
 </ul>
